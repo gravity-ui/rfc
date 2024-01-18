@@ -7,7 +7,7 @@ Gravity RFC is a process for proposing and implementing changes in our ecosystem
 This repository contains of the two parts:
 
 - [Issues](https://github.com/gravity-ui/rfc/issues) (each issue is a RFC)
-- [Project](https://github.com/gravity-ui/projects/1) for tracking all our RFCs
+- [Project](https://github.com/orgs/gravity-ui/projects/1) for tracking all our RFCs
 
 ## What is the difference between RFC and project issues
 
