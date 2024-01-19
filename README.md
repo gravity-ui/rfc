@@ -4,10 +4,11 @@ Gravity RFC is a process for proposing and implementing changes in our ecosystem
 
 ## Overview
 
-This repository contains of the two parts:
+This repository contains of the three parts:
 
 - [Issues](https://github.com/gravity-ui/rfc/issues) (each issue is a RFC)
 - [Project](https://github.com/orgs/gravity-ui/projects/1) for tracking all our RFCs
+- [Issue template](https://github.com/gravity-ui/rfc/issues/new?assignees=&labels=&projects=&template=rfc.md&title=) for creating new RFCs
 
 ## What is the difference between RFC and project issues
 
@@ -19,7 +20,7 @@ We recommend creating a RFC in any of the following cases:
 
 ## How can I create a RFC?
 
-Just [create an issue](https://github.com/gravity-ui/rfc/issues/new) in this repository. We ask you to use template if possible: it helps you structure your proposal and helps us triage and process them faster.
+Just [create an issue]([https://github.com/gravity-ui/rfc/issues/new](https://github.com/gravity-ui/rfc/issues/new?assignees=&labels=&projects=&template=rfc.md&title=)) in this repository. We ask you to use template if possible: it helps you structure your proposal and helps us triage and process them faster.
 
 ## RFC lifecycle
 
