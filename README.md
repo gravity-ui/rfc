@@ -15,7 +15,7 @@ This repository consists of the three parts:
 We recommend creating a RFC in any of the following cases:
 
 - Change that you're proposing affects multiple Gravity UI projects
-- OR change that you're proposing is complex enough to require proper analysis and discussion (i.e. it's not simple bugfix
+- OR change that you're proposing is complex enough to require proper analysis and discussion (i.e. it's not simple bugfix)
 - OR you want to change something in Gravity ecosystem but don't know which project your proposal should be related to
 
 ## How can I create a RFC?
