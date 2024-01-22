@@ -4,7 +4,7 @@ Gravity RFC is a process for proposing and implementing changes in our ecosystem
 
 ## Overview
 
-This repository contains of the three parts:
+This repository consists of the three parts:
 
 - [Issues](https://github.com/gravity-ui/rfc/issues) (each issue is a RFC)
 - [Project](https://github.com/orgs/gravity-ui/projects/1) for tracking all our RFCs
@@ -16,7 +16,7 @@ We recommend creating a RFC in any of the following cases:
 
 - Change that you're proposing affects multiple Gravity UI projects
 - OR change that you're proposing is complex enough to require proper analysis and discussion (i.e. it's not simple bugfix
-- OR you want to change something in Gravity ecosystem but don't know which project you proposal should be related to
+- OR you want to change something in Gravity ecosystem but don't know which project your proposal should be related to
 
 ## How can I create a RFC?
 
